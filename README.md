@@ -1,29 +1,69 @@
-¡Hola! Soy Azkoien07 👋
+# 👋 ¡Hola! Soy **Gabriel “Azkoien07” Cáseres**
 
-🚀 Sobre mí
+**Desarrollador FullStack & Apasionado por la arquitectura de software, despliegue en producción y buen código.**
 
-Desarrollador apasionado por la tecnología, actualmente trabajando en Ayrton, un gestor de tareas y tiempo diseñado para mejorar la productividad y la organización. Me encanta aprender nuevas tecnologías y construir soluciones eficientes.
+---
 
-🛠️ Tecnologías y herramientas
+## 🚀 Sobre mí
 
-Frontend: React, Next.js, Tailwind CSS
+Desarrollador FullStack con backend en **Java (Spring Boot)** y **PHP (Laravel)**; frontend moderno con **React, Next.js, TypeScript, Redux y Tailwind CSS**. Tengo experiencia construyendo API REST, servicios con **GraphQL** y **gRPC**, además de diseñar arquitecturas mediante **diagramas C4 y UML** para crear sistemas modulares, escalables y mantenibles.  
 
-Backend: Java Spring Boot, MySQL, PostgreSQL
+También desarrollo e implemento proyectos en producción, gestionando servidores **Ubuntu + Nginx** para Laravel y Spring Boot, configurando entornos, dominios y asegurando rendimiento, estabilidad y buen despliegue.
 
-Herramientas: VS Code, Postman, MySQL Workbench, Git
+📚 Siempre aprendiendo nuevas tecnologías, mejores prácticas y enfoques para entregar soluciones profesionales.
 
-💡 Proyectos destacados
+---
 
-🔹 Ayrton - Gestor de tareas y tiempo
+## 🛠️ Tech Stack & Habilidades
 
-📫 Conéctate conmigo
+**🔧 Backend**  
+`Java (Spring Boot)` · `PHP (Laravel)` · API REST · GraphQL · gRPC
 
-💻 GitHub
+**💻 Frontend**  
+`React` · `Next.js` · `TypeScript / JavaScript` · `Redux` · `Tailwind CSS` · `HTML / CSS`
 
-✉️ Contáctame a través de GitHub
+**🧱 Arquitectura / Diseño**  
+Diagramas C4 (Contexto · Contenedores · Componentes · Código) · UML · Diseño modular y mantención de estructuras limpias
 
-Siempre en busca de nuevos desafíos y oportunidades para mejorar. 🚀
-<!---
-Azkoien07/Azkoien07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**🌐 Infraestructura / DevOps**  
+Ubuntu · Nginx · Deploy de aplicaciones Laravel & Spring Boot · Configuración de dominios y SSL · Mantenimiento de servidores en producción  
+
+**🗄️ Bases de datos**  
+MySQL · PostgreSQL  
+
+**⚙️ Herramientas**  
+Git · GitHub · VS Code · Postman · MySQL Workbench
+
+---
+
+## 💡 Proyectos Destacados
+
+| Proyecto | Descripción |
+|---------|-------------|
+| **Ayrton** — Gestor de tareas & tiempo | WebApp full-stack (backend + frontend) para gestión de tareas, productividad y control de tiempo. |
+| **Meditrack** | Plataforma para gestión de citas y pacientes en clínicas, con backend robusto y arquitectura bien definida. |
+
+> Puedes ver más proyectos en mi perfil 👇  
+
+🔗 [GitHub – Azkoien07](https://github.com/Azkoien07)
+
+---
+
+## 📫 ¿Quieres contactarme?
+
+- 📧 **Email:** caceresgabriel305@gmail.com  
+- 🔗 **GitHub:** [github.com/Azkoien07](https://github.com/Azkoien07)  
+- 💬 Disponible para colaboraciones, freelance o proyectos interesantes  
+
+---
+
+## 🧭 Estoy abierto a…
+
+- Nuevos desafíos en backend, frontend o full-stack  
+- Proyectos que requieran diseño arquitectónico sólido  
+- Colaboraciones open-source  
+- Aprender y dominar nuevas tecnologías  
+
+---
+
+*Gracias por visitar mi perfil — que la innovación y el buen código sigan 💡🚀*
